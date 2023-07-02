@@ -1,0 +1,4 @@
+id,name,speed,MaxTimer,Damage,UpgradeValue(other),UpgradeValue2(damage)
+0,Bullet,8,2,50,0,2
+1,Missle,4,5,100,0.5,20
+2,Fire,2,0.5,20,0.25,10

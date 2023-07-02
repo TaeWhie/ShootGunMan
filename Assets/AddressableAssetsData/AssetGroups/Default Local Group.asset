@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b36a90b6d56645247b2c8f64ddd162e6
+  m_SerializeEntries:
+  - m_GUID: 20d8a3d33869baf48ac1cfcbb163ea2b
+    m_Address: MonsterChart
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cefd524498e43cc448da0e30382293be
+    m_Address: WaveChart
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3dd1fda611479864eabf2dc37c50280b
+    m_Address: RedOak
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7338e00c1ac897e47a6ab4cee2b3aafc
+    m_Address: GreenOak
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e4268617d04622449e4abbaa65e64ed
+    m_Address: GreenOak
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71f6ca0b3978cd84a92cb3e029065d89
+    m_Address: RedOak
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: efab069d5c158e24a91a460d0c6d0918
+    m_Address: GunChart
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 36d7b243259f8d5469213e3484ada5e0
+    m_Address: Missile
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 279e11e2dbe59704c8bb50695d74164a
+    m_Address: ShotGun
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 308988542ae7f7043bbf9bee142ecb66
+    m_Address: FireMaker
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: be3b5211f635e9646a921db927dbc506
+    m_Address: HandGun
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d1f3f29106aaed5498ca600f6bce68c9
+    m_Address: Rifle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2cc10c6dc1064eb438f67ec2fd5dfe25
+    m_Address: BulletChart
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d6a67aaced721164f9a862a0b59c6fb7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 79c0222964b414747a0373bb528f018f, type: 2}
+    - {fileID: 11400000, guid: c051ec39bc900244898a9241a150aabc, type: 2}

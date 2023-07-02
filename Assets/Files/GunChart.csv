@@ -1,0 +1,5 @@
+﻿id,name,Delaytime,BulletID,UpgradeForm,Cooldown by Upgrade
+0,Rifle,0.3,0,0,0.02
+1,ShotGun,0.5,0,1,0.01
+2,Missile,2,1,2,0
+3,FireMaker,0.3,2,3,0
